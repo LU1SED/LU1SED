@@ -24,7 +24,6 @@
 
 ## 📂 Projetos em destaque
 🔗 [Meu Portfólio](https://lu1sed.github.io/Meu-portif-lio/)  
-📦 [Gerenciador de Despesas (Python + SQLite)](https://github.com/LU1SED/gerenciador_despesas)  
 
 ---
 
